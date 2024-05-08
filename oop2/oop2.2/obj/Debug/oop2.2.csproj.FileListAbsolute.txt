@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\oop2.2\bin\Debug\oop2.2.exe.config
+C:\Users\Lenovo\source\repos\oop2.2\bin\Debug\oop2.2.exe
+C:\Users\Lenovo\source\repos\oop2.2\bin\Debug\oop2.2.pdb
+C:\Users\Lenovo\source\repos\oop2.2\obj\Debug\oop2.2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\oop2.2\obj\Debug\oop2.2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\oop2.2\obj\Debug\oop2.2.exe
+C:\Users\Lenovo\source\repos\oop2.2\obj\Debug\oop2.2.pdb
