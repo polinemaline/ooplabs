@@ -1,0 +1,861 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\oop3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:controllers\\filmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\migrations\\20240512161144_baseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:migrations\\20240512161144_baseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\films\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\films\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\films\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\films\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\films\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\films\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\genres\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\genres\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\genres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\genres\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\genres\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\genres\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\producers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\producers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\producers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\producers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\producers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\years\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\years\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\years\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\years\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\years\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\years\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\years\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\years\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\years\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\years\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|c:\\users\\lenovo\\source\\repos\\oop3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{169142A9-716C-4FC5-9376-DB632595D76D}|oop3.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\ApplicationDbContext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\ApplicationDbContext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512122551_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512122551_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512121647_[Films].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240512121647_[Films].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222354_[Film].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511222354_[Film].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222211_[Genre].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511222211_[Genre].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511224817_[Initial].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240511224817_[Initial].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\oop3\\Pages\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pages\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "Controllers\\ProducersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:55:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:52:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:44:15.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\FilmsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilmsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\FilmsController.cs",
+              "RelativeToolTip": "Controllers\\FilmsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:32:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:47:49.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YearsController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\YearsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YearsController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Controllers\\YearsController.cs",
+              "RelativeToolTip": "Controllers\\YearsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:45:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240512161144_Baseline.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512161144_Baseline.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512161144_Baseline.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512161144_Baseline.cs",
+              "RelativeToolTip": "Migrations\\20240512161144_Baseline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:54:24.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:44:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T21:33:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Models\\Film.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Film.cs",
+              "RelativeToolTip": "Models\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:51:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:54:23.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Models\\Producer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Producer.cs",
+              "RelativeToolTip": "Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:29:10.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Year.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Year.cs",
+              "RelativeDocumentMoniker": "Models\\Year.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Models\\Year.cs",
+              "RelativeToolTip": "Models\\Year.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:52:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Films\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Create.cshtml",
+              "RelativeToolTip": "Views\\Films\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:51:53.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Films\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Films\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:52:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Films\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Details.cshtml",
+              "RelativeToolTip": "Views\\Films\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:52:15.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Films\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Films\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:52:40.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Films\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Films\\Index.cshtml",
+              "RelativeToolTip": "Views\\Films\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:07:55.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genres\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Create.cshtml",
+              "RelativeToolTip": "Views\\Genres\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:50:30.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genres\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Genres\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:50:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genres\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Details.cshtml",
+              "RelativeToolTip": "Views\\Genres\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:50:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genres\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Genres\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:51:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Genres\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Genres\\Index.cshtml",
+              "RelativeToolTip": "Views\\Genres\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:51:35.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:52:27.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:52:49.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T15:06:59.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:47:35.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Details.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:47:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:47:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Producers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Producers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Producers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:48:25.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T11:24:36.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T09:32:23.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T09:32:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Years\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Create.cshtml",
+              "RelativeToolTip": "Views\\Years\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:44:26.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Years\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Years\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:44:54.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Years\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Details.cshtml",
+              "RelativeToolTip": "Views\\Years\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:45:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Years\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Years\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:45:21.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Years\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\Years\\Index.cshtml",
+              "RelativeToolTip": "Views\\Years\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:45:33.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T09:32:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T09:32:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T17:54:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:51:20.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-18T20:47:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\ApplicationDbContext1.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContext1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\ApplicationDbContext1.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContext1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:04:46.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240511224817_[Initial].cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511224817_[Initial].cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511224817_[Initial].cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511224817_[Initial].cs",
+              "RelativeToolTip": "Migrations\\20240511224817_[Initial].cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwHIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:48:17.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240512122551_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512122551_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512122551_Initial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512122551_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240512122551_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:25:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240512121647_[Films].cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512121647_[Films].cs",
+              "RelativeDocumentMoniker": "Migrations\\20240512121647_[Films].cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240512121647_[Films].cs",
+              "RelativeToolTip": "Migrations\\20240512121647_[Films].cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:16:48.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240511222354_[Film].cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222354_[Film].cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511222354_[Film].cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222354_[Film].cs",
+              "RelativeToolTip": "Migrations\\20240511222354_[Film].cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:23:54.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240511222211_[Genre].cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222211_[Genre].cs",
+              "RelativeDocumentMoniker": "Migrations\\20240511222211_[Genre].cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Migrations\\20240511222211_[Genre].cs",
+              "RelativeToolTip": "Migrations\\20240511222211_[Genre].cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T22:22:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\oop3\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T20:13:58.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
